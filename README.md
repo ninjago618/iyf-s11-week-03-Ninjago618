@@ -67,4 +67,4 @@ How to write a readme file
 
 This project is open source and available under the [
 
-..- Improved README documentation.
+
