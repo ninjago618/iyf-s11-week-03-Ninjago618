@@ -54,7 +54,7 @@ How to write a readme file
 - [ ] Implement dark mode
 - [ ] Add project filtering
 - [ ] make the website full responsive for all devices
-- [ ] 
+- [ ] Improve the website performance.
 
 ## Contact
 
