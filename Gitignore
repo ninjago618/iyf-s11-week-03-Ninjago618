@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.envp
